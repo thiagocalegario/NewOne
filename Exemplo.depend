@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1662041392 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1661543699 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1660824375 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\dominios.h
+	<stdexcept>
+	<string>
+
+1660824375 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\entidades.h
+	"dominios.h"
+	<string>
+
+1662043414 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\interfaces.h
+	<list>
+	"dominios.h"
+	"entidades.h"
+
+1660824375 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\dominios.cpp
+	<string>
+	"dominios.h"
+	<cstring>
+	<cctype>
+
+1660824375 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\entidades.cpp
+	"entidades.h"
+
+1662043806 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"entidades.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+
+1660824375 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\testes.cpp
+	"testes.h"
+
+1660824375 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\testes.h
+	<string>
+	"dominios.h"
+	"entidades.h"
+
+1662034304 source:c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1662070758 c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1662034304 c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\dominios.h
+	<stdexcept>
+	<string>
+
+1662034304 c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\entidades.h
+	"dominios.h"
+	<string>
+
+1662070300 c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1662034304 source:c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\controladorasservico.cpp
+	"controladorasservico.h"
+	<iostream>
+	<iterator>
+
+1662034304 c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	"database.h"
+
+1662034304 c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\database.h
+	<list>
+	<stdio.h>
+	<iostream>
+	<string>
+	"sqlite3.h"
+	"entidades.h"
+
+1662034304 c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\sqlite3.h
+	<stdarg.h>
+
+1662070271 source:c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\database.cpp
+	"entidades.h"
+	"dominios.h"
+	"sqlite3.h"
+	"database.h"
+	<string>
+	<sstream>
+
+1662034304 source:c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\dominios.cpp
+	<string>
+	"dominios.h"
+	<cstring>
+	<cctype>
+
+1662034304 source:c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\entidades.cpp
+	"entidades.h"
+
+1662070470 source:c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"entidades.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+
+1662034304 source:c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\testes.cpp
+	"testes.h"
+
+1662034304 c:\users\thiag\downloads\trabalho desgracado\quinta\t2-tp1-novo0901-main\tp1-projeto1-main (1)\tp1-projeto1-main\testes.h
+	<string>
+	"dominios.h"
+	"entidades.h"
+
